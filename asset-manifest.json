@@ -1,13 +1,13 @@
 {
-  "main.css": "/moscow-mule-web-public/static/css/main.1eef92c1.chunk.css",
-  "main.js": "/moscow-mule-web-public/static/js/main.9cded1c4.chunk.js",
-  "main.js.map": "/moscow-mule-web-public/static/js/main.9cded1c4.chunk.js.map",
-  "static/js/1.a852b0eb.chunk.js": "/moscow-mule-web-public/static/js/1.a852b0eb.chunk.js",
-  "static/js/1.a852b0eb.chunk.js.map": "/moscow-mule-web-public/static/js/1.a852b0eb.chunk.js.map",
+  "main.css": "/moscow-mule-web-public/static/css/main.bf971b50.chunk.css",
+  "main.js": "/moscow-mule-web-public/static/js/main.28ca5ee6.chunk.js",
+  "main.js.map": "/moscow-mule-web-public/static/js/main.28ca5ee6.chunk.js.map",
+  "static/js/1.e19e75be.chunk.js": "/moscow-mule-web-public/static/js/1.e19e75be.chunk.js",
+  "static/js/1.e19e75be.chunk.js.map": "/moscow-mule-web-public/static/js/1.e19e75be.chunk.js.map",
   "runtime~main.js": "/moscow-mule-web-public/static/js/runtime~main.85237c26.js",
   "runtime~main.js.map": "/moscow-mule-web-public/static/js/runtime~main.85237c26.js.map",
-  "static/css/main.1eef92c1.chunk.css.map": "/moscow-mule-web-public/static/css/main.1eef92c1.chunk.css.map",
+  "static/css/main.bf971b50.chunk.css.map": "/moscow-mule-web-public/static/css/main.bf971b50.chunk.css.map",
   "index.html": "/moscow-mule-web-public/index.html",
-  "precache-manifest.276f48f25e1162784eba111b2994544c.js": "/moscow-mule-web-public/precache-manifest.276f48f25e1162784eba111b2994544c.js",
+  "precache-manifest.5d3218f0598cac2f4864d2882144abd3.js": "/moscow-mule-web-public/precache-manifest.5d3218f0598cac2f4864d2882144abd3.js",
   "service-worker.js": "/moscow-mule-web-public/service-worker.js"
 }
