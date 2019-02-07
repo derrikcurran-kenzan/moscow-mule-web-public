@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/moscow-mule-web-public/precache-manifest.a274eb70f78e45e0629b6aee0ab46b16.js"
+  "/moscow-mule-web-public/precache-manifest.157eaa7a47cb2f978982aae7653ed7fc.js"
 );
 
 workbox.clientsClaim();
